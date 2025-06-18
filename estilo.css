@@ -1,0 +1,14 @@
+body {
+    background: lightgray;
+    font-family: Arial; 
+}
+h1 {
+    text-align: center;
+    color: green;
+}
+.branco {
+    color: white
+}
+.centralizado {
+    text-align: center;
+  }
