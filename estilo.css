@@ -1,13 +1,13 @@
 body {
-    background: lightgray;
+    background: white;
     font-family: Arial; 
 }
 h1 {
     text-align: center;
     color: green;
 }
-.branco {
-    color: white
+.black {
+    color: black;
 }
 .centralizado {
     text-align: center;
